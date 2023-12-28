@@ -3,7 +3,7 @@ package MethodRefrance;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
-
+// method refrance is used to use predefine functionality
 public class MethodRefranceEx {
 
 	public static void main(String[] args) {
